@@ -1,0 +1,20 @@
+.todoitemcontainer {
+  width: 500px;
+  color: #353935;
+  font-size: 20px;
+  margin: 0 auto;
+}
+.todoiteminput {
+  font-weight: bold;
+  padding: 20px;
+  font-size: 30px;
+}
+.line {
+  border: 1px solid;
+  color: #f4f4f4;
+}
+.deleteButton {
+  float: right;
+  padding: 12px 20px;
+  border: none;
+}
